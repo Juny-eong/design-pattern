@@ -1,0 +1,4 @@
+package org.example.factory.abstractfactory.veggies;
+
+public class Mushroom implements Veggies {
+}
